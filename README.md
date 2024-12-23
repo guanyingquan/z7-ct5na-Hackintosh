@@ -65,3 +65,5 @@
 ## 关闭睡眠之后如何关闭显示器以节电
 
 通过组合键Fn+F2（具体按键方式视笔记本型号而定）可以实现关闭显示器的功能，这样无疑是当下最好的解决方式。
+
+兼容 适用于蓝天Clevo NH5xRD_RC_RA_RH(Q)/NH70RD_RC_RA_RH(Q) 例如 神舟战神 Z7M CT5NA Z7M CT7NA G7M CT7NA G7M CT7NK Z7 CT5NA Z7 CT7NA Z7 CT7NT Z7 CT7NK G7 CT7NA G7 CT7NT G7 CT7NK Z8 CT7NA Z8 CT7NT G8 CT7NA G8 CT7NT G8 CT7NK 炫龙 T3TI 雷神 911MT
